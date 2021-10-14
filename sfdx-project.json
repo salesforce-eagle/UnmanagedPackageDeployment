@@ -1,0 +1,50 @@
+{
+  "packageDirectories": [
+    {
+      "path": "foundation-objs",
+      "package": "objs",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false
+    },
+    {
+      "path": "foundation-code",
+      "package": "code",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false
+    },
+    {
+      "path": "foundation-process",
+      "package": "process",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false
+    },
+    {
+      "path": "foundation-functional",
+      "package": "functional",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false
+    },
+    {
+      "path": "foundation-exceptionHandling",
+      "package": "exceptionHandling",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false
+    },
+    {
+      "path": "force-app",
+      "package": "",
+      "versionName": "",
+      "versionNumber": "",
+      "default": true
+    }
+  ],
+  "name": "ClearTax",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "52.0"
+}
