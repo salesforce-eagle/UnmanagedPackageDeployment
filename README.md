@@ -1,7 +1,6 @@
 # UnmanagedPackageDeployment
 
-This Repositories contains the work related to Second Generation Unmanaged Package Deployment.<br>
-      1. There will be different folder based on the kind of activity and metadata they contains.<br>
+This Repositories contains the work related to Second Generation Unmanaged Package Deployment. There will be different folder based on the kind of activity and metadata they contains.<br>
        	<ul>1. foundation-objs : This folder(package) should contain all the metadat that is related to an object(Object, Page Layout, Global value set etc..)<br></ul>
         	<ul>2. foundation-code : This folder(package) should contain all the code or custom build metadata(Apex class, Test class, Triggers, VF page, LWC etc..)<br></ul>
           	<ul>3. foundation-process : This folder(package) should contain all the automation process metadata(Flow, Process builder, Workflow rule, Email Template etc..)<br></ul>
